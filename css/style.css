@@ -1172,8 +1172,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 
-
-
 @media (max-width: 900px) and (max-width: 1024px) {
   #mobile-nav-toggle {
     display: inline;
