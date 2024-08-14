@@ -1524,3 +1524,53 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin: 25px 10px;
   }
 }
+@media (min-width: 412px) and (max-width: 1260px) and (max-height: 926px) {
+  .back-to-top {
+    bottom: 20px;
+  }
+
+  #header {
+    padding: 25px 0;
+    height: 80px;
+  }
+
+  #header #logo h1 {
+    font-size: 36px;
+  }
+
+  #header #logo img {
+    max-height: 40px;
+  }
+
+  #nav-menu-container {
+    display: none;
+  }
+
+  #mobile-nav-toggle {
+    display: inline;
+    font-size: 26px;
+  }
+
+  #about .about-img {
+    height: auto;
+  }
+
+  #about .about-img img {
+    margin-left: 40px;
+    padding-bottom: 45px;
+  }
+
+  #intro .intro-content h2 {
+    font-size: 36px;
+  }
+
+  #services .box h4,
+  #services .box p {
+    text-align: left;
+    margin-left: 15px;
+  }
+
+  #testimonials .testimonial-item {
+    margin: 25px 10px;
+  }
+}
