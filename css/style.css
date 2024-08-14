@@ -1524,7 +1524,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin: 25px 10px;
   }
 }
-@media (min-width: 414px) and (max-width: 1260px) and (max-height: 926px) {
+@media (min-width: 414px) and (max-width: 896px) and (max-height: 915px) {
   .back-to-top {
     bottom: 20px;
   }
